@@ -1,0 +1,6 @@
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\first\bin\Debug\first.exe
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\first\bin\Debug\first.pdb
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\first\obj\Debug\first.exe
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\first\obj\Debug\first.pdb
