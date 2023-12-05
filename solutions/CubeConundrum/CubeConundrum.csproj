@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{4F1BCBB8-D1B5-46BA-B57A-CC8307E84A26}</ProjectGuid>
+        <ProjectGuid>{9C028B75-EE67-4285-A194-D4CBCBD48E81}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>first</RootNamespace>
-        <AssemblyName>first</AssemblyName>
+        <RootNamespace>CubeConundrum</RootNamespace>
+        <AssemblyName>CubeConundrum</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,9 +40,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Digits.cs" />
-        <Compile Include="IntegerSolution.cs" />
-        <Compile Include="MainDisplay.cs" />
+        <Compile Include="MyMain.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>

@@ -1,0 +1,6 @@
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\CubeConundrum\bin\Debug\CubeConundrum.exe
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\CubeConundrum\bin\Debug\CubeConundrum.pdb
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\CubeConundrum\obj\Debug\CubeConundrum.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\CubeConundrum\obj\Debug\CubeConundrum.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\CubeConundrum\obj\Debug\CubeConundrum.exe
+C:\Users\damia\Desktop\sideprojects\aoc#\solutions\CubeConundrum\obj\Debug\CubeConundrum.pdb
